@@ -1,0 +1,21 @@
+READ ME - Alison Ostlund HW3
+
+
+0          Reset view angle
+ESC        Exit
+arrows     Change view angle
+1          Toggle axes
+m          Viewing angle - orthogonal or perspective
+
+WHEN IN PERSPECTIVE MODE:
+f/F - turn First Person point of view on/off
+w/W - move forwards
+s/S - move backwards
+a/A - move Right
+d/D - move Left
+q/Q - reset first person point of view
+
+LIGHTING
+[]         Lower/rise light
+s          Stop Rotation
+l          Toggle light

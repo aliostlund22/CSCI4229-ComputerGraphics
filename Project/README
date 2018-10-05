@@ -1,0 +1,37 @@
+READ ME - Alison Ostlund Final Project - Seattle
+
+This project is a graphic replica of the Seattle,WA skyline. The design and placement of all the buildings was inspired by the “Seattle.jpg” picture attached in the folder. The project features the Space needle, personalized built city buildings with lots of different textures, some evergreen tress around the city, a moving ferry boat, and a day/night feature of the city. The lighting is fixed to show the city lights at night time. I love the city I come from and I hope this project reflects that!
+
+BASIC COMMANDS
+0          Reset view angle
+ESC        Exit
+arrows     Change view angle
+1          Toggle axes
+m          Viewing angle - orthogonal or perspective
+m          toggle skybox (can be viewed in both day and night views)
+
+DAY and NIGHT
+n/N        Toggle day and night time
+
+MOVE FERRY BAOT
+<(shift ,)   Move left
+>(shift .)   Move right
+
+LIGHTING
+[]         Lower/rise light
+s          Stop Rotation
+l          Toggle light
+
+WHEN IN PERSPECTIVE MODE-FIRST PERSON:
+f/F - turn First Person point of view on/off
+w/W - move forwards
+s/S - move backwards
+a/A - move Right
+d/D - move Left
+q/Q - reset first person point of view
+
+
+
+
+
+

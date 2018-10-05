@@ -1,0 +1,21 @@
+Alison Ostlund - HW2 README
+Seattle Space Needle
+
+Took me 9 hours to complete
+
+
+CONTROLS
+esc - exit
+0 - reset viewing angle
+arrow keys - rotate around scene
+1 - toggle axes
+m/M - change mode from Orthogonal to Perspective
+t - show/hide transformed objects
+
+WHEN IN PERSPECTIVE MODE:
+f/F - turn First Person point of view on/off
+w/W - move forwards
+s/S - move backwards
+a/A - move Right
+d/D - move Left
+q/Q - reset first person point of view

@@ -1,0 +1,25 @@
+Alison Ostlund
+HW1 -Lorenz Attractor
+
+Time taken to complete assignment - 8 hours
+
+Basic
+esc - exit
+0 - reset window 
+1 - reset parameters
+arrow keys - change view angles
+
+Colors
+2 - change color to red
+3 - change color to green
+4 - change color to blue
+
+Parameters
+r - increase r value
+R -decrease r value
+
+b - increase b value
+B -decrease b value
+
+s - increase s value
+S -decrease S value
